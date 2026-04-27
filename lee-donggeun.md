@@ -2,8 +2,8 @@
 Title: OMORI
 Year: 2020
 Genre: Game
-Disease: PTSD, Specific phobia
-ICD: 6B40 , 6B03
+Disease: PTSD, Specific phobia Dissociative Disorders
+ICD: 6B40 , 6B03 , 6B64
 ---
 
 # OMORI
