@@ -3,7 +3,7 @@ Title: The Man Who Mistook His Wife for a Hat
 Year: 1986
 Genre: Opera
 Disease: Visual Agnosia
-ICD: 
+ICD: MB40.0
 ---
 
 # The Man Who Mistook His Wife for a Hat
