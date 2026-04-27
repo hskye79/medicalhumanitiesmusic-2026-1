@@ -2,7 +2,7 @@
 Title: Casetle2
 Year: 2024
 Genre: Webtoon
-Disease: PsychologicalTrauma
+Disease: Psychological Trauma
 ICD: F43.1
 ---
 
