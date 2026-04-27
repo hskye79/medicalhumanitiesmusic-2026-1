@@ -3,7 +3,7 @@ Title: Le Scaphandre et le Papillon
 Year: 2007
 Genre: Film
 Disease: Locked-in Syndrome
-ICD:
+ICD: G83.5
 ---
 
 # The Diving Bell and the Butterfly
