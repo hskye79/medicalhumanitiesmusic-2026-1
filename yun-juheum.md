@@ -21,6 +21,8 @@ While extreme human suffering is difficult to express fully in words, it is fina
 
 In the HYQ Portfolio, a question was raised regarding the therapeutic and cultural possibilities that open-source-based musical narrative archiving holds for the autonomous healing and empathy-building of patients with chronic illnesses. In connection with this, the drama Dear My Friends deals with the disease of dementia. Its OST, 'Want to Be Free,' serves to auditory-ize the internal suffering of the patient, firmly connecting them with the audience beyond the screen. If the "open-source music archive platform" pursued by our team expands to the public like the case in this drama, what institutional and cultural possibilities could it open up for patients suffering from social stigma and isolation due to illness to communicate seamlessly with the public and form a "cultural solidarity"? The characters in the drama face various diseases such as dementia, liver cancer, and osteoporosis, but the drama does not view them merely as "patients to be treated (objects)"; instead, it dimensionally portrays their attitudes toward life. If so, unlike the numerical, data-driven approach of traditional medicine, how should the future "open-source-based musical narrative archive" be interpreted and utilized differently by medical professionals and the public as "narrative medicine data" that views the patient as a "dignified subject with a multi-dimensional life"?
 
+In this regard, looking into [To the Moon](yoon-heeji.md) and [Keys to the Heart](yun-seungmin.md), which share a similar theme of reflecting on one's life and realizing its true value through illness, will help broaden your understanding of illness and disabilities.
+
 # Music I Wish to Be Played at My Funeral
 
 The music I wish to be played at my funeral is [Ha Hyunsang’s <3108>](https://www.youtube.com/watch?v=SDfOEVa7KRc). Even though I may cross the distant sea and pass beyond the light, the message that I will always retrace the light through our memories to come and meet you, along with the lyrics "on our dazzling days," makes us look back on a life that was fierce and beautiful, rather than marking a gloomy end to it. Although death may seem like a complete severance from everything, this song sublimates it into a journey toward the 'world of light' rather than mere 'extinction.' I hope my funeral can be a time to reflect on and think about the life I lived, rather than just an occasion of death and sorrow.
@@ -40,6 +42,8 @@ The music I wish to be played at my funeral is [Ha Hyunsang’s <3108>](https://
 인간의 극심한 고통은 말로 다 표현하기 어렵지만, 예술과 서사를 통해 비로소 타인에게 전달된다. 드라마 속 인물들은 자신만의 고통의 서사를 가지고 있으며, 드라마라는 매체는 이를 아름답고도 가슴 시리게 연주한다.(5,12주차
 
 HYQ Portfolio 에서 오픈소스 기반의 음악적 서사 기록은 만성질환 환자의 주체적 치유와 공감대 형성에 어떤 치료적, 문화적 가능성을 갖는가에 대한 질문을 던졌는데 디어마이프렌즈라는 영화에서는 치매라는 질환을 다루고 있다. 이와 연결을 하면 <디어 마이 프렌즈>의 OST 'Want to Be Free'는 환자의 내면 고통을 청각화하여 스크린 밖의 관객들에게 단단하게 연결해 주는 역할을 한다. 우리 팀이 지향하는 '오픈소스 음악 아카이브 플랫폼'이 드라마 속 사례처럼 대중에게 확산된다면, 질병으로 인해 사회적 낙인과 고립을 겪는 환자들이 대중과 거부감 없이 소통하고 '문화적 연대'를 형성하는 데 있어 어떤 제도적·문화적 가능성을 열어줄 수 있을까? 드라마 속 인물들은 치매, 간암, 골다공증 등 다양한 질병을 마주하지만, 드라마는 이들을 단순한 '치료받아야 할 환자(객체)'로만 보지 않고 삶의 태도를 입체적으로 그린다. 그렇다면 향후 구축될 '오픈소스 기반 음악적 서사 기록'은 기존 의학계의 수치 중심 데이터와 달리, 환자를 '입체적인 삶을 가진 존엄한 주체'로 바라보는 '서사의학적 데이터'로서 의료진과 대중에게 어떻게 다르게 해석되고 활용되어야 할까? 라는 질문을 도출해볼 수 있다. 
+
+이와 관련하여 자신의 질병으로 인해 삶을 돌아보고 삶의 가치를 깨닫게 된다는 내용이 비슷한 [투더문](yoon-heeji.md), [그것만이 내 세상](yun-seungmin.md)도 함께 참고해본다면 질병과 장애에 대한 이해를 넓힐 수 있을 것이다.
 
 # 나의 장례식에서 연주되길 희망하는 음악
 
